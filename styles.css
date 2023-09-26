@@ -1,0 +1,139 @@
+/* Header */
+header {
+    background-color: hwb(0 8% 9%);
+    text-align: center;
+}
+
+.imgheader {
+    padding-top: 1%;
+}
+
+/*Body*/
+.imgbody1 {
+    text-align: center;
+}
+
+.bodytext1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 4%;
+    color: black;
+    font-size: x-large;
+}
+
+table {
+    margin-right: 4%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+/* Botão */
+.button {
+    background-color: hwb(0 8% 9%);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    font-size: x-large;
+}
+
+.button {
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    border: white;
+    color: white;
+}
+
+/* footer */
+footer {
+    background-color: #800000;
+    text-align: center;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;
+}
+
+.textfooter1 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: medium;
+}
+
+/*Página Formulário*/
+
+.formtext1 {
+    display: flex;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 600;
+    color: black;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/*Formulario*/
+.formatricula {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+form {
+
+    background-color: #800000;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 20px;
+    padding: 40px 60px 20px 60px;
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+
+input,
+select {
+    width: 100%;
+    max-width: 600px;
+    padding: 10px;
+    border: 0;
+    margin-bottom: 30px;
+}
+
+
+input[type="submit"] {
+    background-color: white;
+    color: black;
+}
+
+.criar {
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+/*historia*/
+
+.tittleplace {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 4%;
+    color: #800000;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.phalenda {
+    text-align: center;
+}
